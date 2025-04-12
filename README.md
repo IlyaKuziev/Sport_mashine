@@ -1,7 +1,4 @@
-
 # Sport_mashine
-
-
    </header>
      </div>
 # pulse

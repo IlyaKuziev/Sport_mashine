@@ -10,7 +10,6 @@ def heart_shape(t, scale=1):
     y = scale * 0.5 * (0.8125 * np.cos(t) - 0.3125 * np.cos(2*t) - 0.125 * np.cos(3*t) - 0.0625 * np.cos(4*t))
     return x, y
 def update(frame, line):
-
     scale = 1 + 0.1 * np.sin(frame * np.pi / 20)  # Pulsing effect
     t = np.linspace(0, 2 * np.pi, 100)
     x, y = heart_shape(t, scale)

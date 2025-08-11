@@ -6,8 +6,6 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 popikss
-
-
 pkemongo
 import matplotlib.animation as animation
 def heart_shape(t, scale=1): g 13

@@ -3,7 +3,6 @@
      </div>
 # pulse
 import numpy as np
-
 import matplotlib.pyplot as plt
 popikss
 pkemongo

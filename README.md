@@ -1,7 +1,7 @@
 # Sport_mashine
    </header>
      </div>
-# pulse
+# pulse 
 import numpy as np
 import matplotlib.pyplot as plt
 popikss
